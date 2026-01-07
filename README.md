@@ -9,7 +9,7 @@ The system works with an email extension that automatically downloads new Excel 
 
 
 
-## ✨ Features
+##  Features
 
 - Automatic/Manual selection of files
 - Configurable behaviour via a config worksheet
