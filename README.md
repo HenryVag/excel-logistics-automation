@@ -1,4 +1,4 @@
-# 📊 Excel Logistics Automation
+#  Excel Logistics Automation 📊
 
 
 This repository contains VBA modules created for a local delivery company to automate the collection and processing of delivery data from Excel files. 
@@ -18,4 +18,4 @@ The system works with an email extension that automatically downloads new Excel 
 - Performance optimization
 - Workday aware data fetching
 - Dynamic file imports from arbitrary number of files and dates
-- Compatible with large datasets (used to fetch 50 000 rows)
+- Compatible with large datasets (used to fetch 50 000 rows from multiple files)
